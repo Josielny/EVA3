@@ -2,7 +2,7 @@ var clientes = []
 clientes.push(new Cliente("11.111.111-1","JORGE","PEREZ","98767654","jperez@GMAIL.COM", 
                                             "RANCAGUA", "MASCULINO", "24" , "123456", "CHILENA" , "ANTIGUO" , "5 O MAS"))
 clientes.push(new Cliente("22.222.222-2", "MABEL", "ORTEGA", "879695943", 
-                                            "mortega@GMAIL.COM","GRANEROS", "FEMENINO", "34" , "654321", "VENEZOLANA" , "NUEVO" , "1"))
+                                            "mortega@GMAIL.COM","GRANEROS", "FEMENINO", "34" ,"654321", "VENEZOLANA" , "NUEVO" , "1"))
 
 function listarClientes(){
     var filas = "";

@@ -1,5 +1,5 @@
 class Cliente{
-    constructor(rut, nombre, apellido, telefono, email, comuna, sexo, edad, password,nacionalidad,tipocliente,productoscomprados){
+    constructor(rut, nombre, apellido, telefono, email, comuna, sexo, edad,password,nacionalidad,tipocliente,productoscomprados){
         this.rut = rut;
         this.nombre = nombre;
         this.apellido = apellido
